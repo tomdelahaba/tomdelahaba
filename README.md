@@ -9,4 +9,4 @@ I love algorithms, optimalization, simplifying things. I currently live in Pragu
 - 👀 I’m interested in JavaScript / React, Python (ML & AI), Android / Kotlin
 - 🌱 I’m currently (currently? Always...) learning -||-
 - 💞️ I’m looking to collaborate on opensource projects where I can learn from the bests
-- 📫 How to reach me email @gmail.com
+- 📫 How to reach me? Use my profile name and @gmail.com
